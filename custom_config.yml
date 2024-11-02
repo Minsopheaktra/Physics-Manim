@@ -1,0 +1,21 @@
+directories:
+    mirror_module_path: false
+    # Add these lines
+    temporary_storage: "D:/Project-Manim/temp"
+    output: "D:/Project-Manim/output"
+break_into_partial_movies: false
+camera_resolutions:
+    4k: 3840x2160
+    default_resolution: high
+    high: 1920x1080
+    low: 854x480
+    medium: 1280x720
+fps: 30
+full_screen: false
+style:
+    font: "CMU Serif"
+    text_alignment: "CENTER"
+    background_color: "#000000"
+universal_import_line: from manimlib import *
+window_monitor: 0
+window_position: UR
